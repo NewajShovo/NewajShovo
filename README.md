@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ... iOS app development, Objective-C, metalpetal (GPU programming).
-- 🌱 I’m currently learning ... Python django.
+- 🌱 I’m currently learning ... Python django, Swift3
 - 📫 How to reach me: leoshovo@gmail.com
 
 
