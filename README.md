@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on ... iOS app development, Objective-C, metalpetal (GPU programming).
+- 🔭 I’m currently working on ... iOS app development, Objective-C, video & Audio messaging. 
+<!-- - metalpetal (GPU programming). -->
 <!-- - 🌱 I’m currently learning ... Python django, Swift -->
 - 📫 How to reach me: leoshovo@gmail.com
 
