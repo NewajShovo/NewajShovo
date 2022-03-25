@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on ... iOS app development, Objective-C, video & audio messaging, webSocket base application.
+- 🔭 I’m currently working on ... iOS app development, Objective-C, video & audio messaging, webSocket based application.
 - Improving my knowledge in algorighms and data-structures. 
 <!-- - metalpetal (GPU programming). -->
 <!-- - 🌱 I’m currently learning ... Python django, Swift -->
